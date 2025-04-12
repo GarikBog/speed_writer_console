@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\cpp_projects\speed_writer\speed_writer\main.cpp(94,11): warning C4129: <: неизвестная escape-последовательность
+C:\cpp_projects\speed_writer\speed_writer\main.cpp(118,11): warning C4129: <: неизвестная escape-последовательность
   speed_writer.vcxproj -> C:\cpp_projects\speed_writer\x64\Debug\speed_writer.exe
